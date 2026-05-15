@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1073686106304",
+    "project_id": "orphanconnect-69e8d",
+    "storage_bucket": "orphanconnect-69e8d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1073686106304:android:0d12d1e4cbc93404a59d25",
+        "android_client_info": {
+          "package_name": "com.example.orphan_connect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAg4HywJDaqcru9iQHIIW74CcKVe9zN3x8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
